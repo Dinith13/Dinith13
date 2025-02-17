@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dinith Navodya Vidushan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
-
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinith13&label=Profile%20views&color=0e75b6&style=flat" alt="dinith13" /> </p>
 
