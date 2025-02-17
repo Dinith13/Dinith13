@@ -54,4 +54,9 @@
   <a href="https://github.com/Dinith13/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinith13&theme=monokai-metallian&hide_border=true"/>
   </a>
+  [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=algolia&layout=compact" />)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dinith13&theme=gruvbox&layout=compact" />
+</p>
+
  
