@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dinith13&color=blueviolet&style=flat">
-  <a href="https://wakatime.com/@59b42694-26d5-4035-8d80-267d68314570"><img src="https://wakatime.com/badge/user/59b42694-26d5-4035-8d80-267d68314570.svg" alt="Total time coded since Jul 23 2020" /></a>
+  
 </p>
 
 
