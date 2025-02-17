@@ -2,8 +2,11 @@
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&lines=Welcome%2C+nice+to+meet+you!;Good+morning.+It%E2%80%99s+a+beautiful+day.;Dear+friend.+I+wish+you+all+the+best+on+this+day.)](https://git.io/typing-svg"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=0E81F7&center=true&vCenter=true&lines=Full-Stack+Developer;UI/UX+Designer;Web+Developer;App+Developer;Passionate+about+Coding+and+Design" alt="Typing SVG">
+  </a>
 </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinith13&label=Profile%20views&color=0e75b6&style=flat" alt="dinith13" /> </p>
 
@@ -54,9 +57,6 @@
   <a href="https://github.com/Dinith13/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dom's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Dinith13&theme=monokai-metallian&hide_border=true"/>
   </a>
-  [//]: # (<img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnhMap0107&theme=algolia&layout=compact" />)
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Dinith13&theme=gruvbox&layout=compact" />
-</p>
+
 
  
