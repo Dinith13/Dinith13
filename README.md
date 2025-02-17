@@ -34,21 +34,16 @@
 <!--Github stats Table--> 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
+<p align="center">
         <a href="https://github.com/Dinith13">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dinith13&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+            <img height="180em"
+                src="https://github-readme-stats-sigma-five.vercel.app/api?username=Dinith13&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+            <img height="180em"
+                src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dinith13&langs_count=12&layout=compact&langs_count=8&theme=algolia" />
         </a>
-      </p>
-    </td>
-   </td>   
-  <td> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dinith13&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dinith13" /></p></td>
-</tr>
- 
-</table>
+        <img width="50%"
+            src="https://github-readme-streak-stats.herokuapp.com/?user=Dinith13&show_icons=true&theme=algolia&hide_border=true" />
+    </p>
 <br />
 🔥 Streak stats
 
