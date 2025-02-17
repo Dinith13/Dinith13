@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinith Navodya Vidushan</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dinith13&color=blueviolet&style=flat">
-  
-</p>
+
 
 
 
